@@ -17,7 +17,7 @@ If you want your oVirt deployment listed here you can edit this page following t
 | air-test.abes.fr                                                   | 4.4.9         | 1            | 1        |  3      |  60    |
 | air-dev.abes.fr                                                    | 4.4.9         | 1            | 1        |  3      |  49    |
 | infra.abes.fr                                                      | 4.4.9         | 2            | 2        |  4      |  14    |
+| Alter Way                                                          | 4.5.4         | n/a          | n/a      |  n/a    |  n/a   |
 |--------------------------------------------------------------------|---------------|--------------|----------|---------|--------|
 | **Totals**                                                         | -             | 7            | 7        | 21      | 268    |
 {: .bordered}
-
